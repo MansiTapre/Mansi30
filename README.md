@@ -1,2 +1,4 @@
 # Mansi30
-I am MANSI TAPRE, This is my first repository.
+I am MANSI TAPRE.
+I am student in section C.
+I love doing creative things.
